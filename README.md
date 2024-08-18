@@ -44,9 +44,10 @@ The project is divided into multiple stages:
    - Provides precision, recall, and F1-score metrics.
    - Provides train and validation losses and different matrix.
    - Evaluation snapshots can be found in the `docs/evaluation/` directory:
-     - `docs/evaluation/precision_recall_f1.png`
-     - `docs/evaluation/train_val_loss.png`
-     - `docs/evaluation/matrix.png`
+   - ![Screenshot of precision, recall, f1 graph](docs/evaluation/precision_recall_f1.png)
+   - ![Screenshot of matrixs graph](docs/evaluation/matrix.png)
+   - ![Screenshot of training and validation loss graph](docs/evaluation/train_val_loss.png)
+    
 
 ## Installation
 
@@ -146,5 +147,6 @@ Contributions are welcome! Please fork this repository and submit a pull request
 This project is licensed under the Apache License 2.0. See the `LICENSE` file for more details.
 
 ## Contact
+[GitHub Pages](https://pages.github.com/).  (https://www.linkedin.com/in/himankoboruah/)
 
-For any questions or suggestions, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/himanoboruah).
+For any questions or suggestions, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/himankoboruah/).

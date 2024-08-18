@@ -44,7 +44,7 @@ The project is divided into multiple stages:
    - Provides precision, recall, and F1-score metrics.
    - Provides train and validation losses and different matrix.
    - Evaluation snapshots can be found in the `docs/evaluation/` directory:
-   - ![Screenshot of precision, recall, f1 graph](docs/evaluation/precision_recall_f1.png)
+   - ![Screenshot of precision, recall, f1 graph](docs/evaluation/precesion_recall_f1.png)
    - ![Screenshot of matrixs graph](docs/evaluation/matrix.png)
    - ![Screenshot of training and validation loss graph](docs/evaluation/train_val_loss.png)
     

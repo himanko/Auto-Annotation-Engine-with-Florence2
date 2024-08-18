@@ -147,6 +147,5 @@ Contributions are welcome! Please fork this repository and submit a pull request
 This project is licensed under the Apache License 2.0. See the `LICENSE` file for more details.
 
 ## Contact
-[GitHub Pages](https://pages.github.com/).  (https://www.linkedin.com/in/himankoboruah/)
 
 For any questions or suggestions, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/himankoboruah/).

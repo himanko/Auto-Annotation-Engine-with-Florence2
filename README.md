@@ -3,6 +3,10 @@
 ## Overview
 
 This project aims to develop an automated annotation pipeline for images using advanced machine learning techniques. Inspired by AutoDistill, the project leverages the `microsoft/Florence-2-large` model as the backend to generate annotations efficiently. The pipeline supports image uploads, preprocessing, model loading, auto annotation, saving and loading generated files, and converting annotations into YOLO format. This makes it a versatile tool for various computer vision tasks.
+visualization_11.jpg
+![Screenshot of Visualization part 1](visualization_11.jpg)
+
+![Screenshot of Visualization part 2](visualization_12.jpg)
 
 ## Features
 
